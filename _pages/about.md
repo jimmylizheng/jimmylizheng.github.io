@@ -16,9 +16,12 @@ Li, Zheng, Caiwei Chen, and Pradeep Kumar Ray. “[Robotics for Autism- Robotic 
 
 # Education
 
-**University of Michigan, Ann Arbor**<p align="right">Expected 2024</p>
+**University of Michigan, Ann Arbor**(Expected 2024)
+
 B.S.E. Computer Science (Dual Degree)
-**Shanghai Jiao Tong University**<p align="right">Expected 2024</p>
+
+**Shanghai Jiao Tong University**(Expected 2024)
+
 B.S.E. Electrical and Computer Engineering (Dual Degree)
 
 # Selected Project
