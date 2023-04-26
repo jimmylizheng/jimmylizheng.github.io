@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Zheng Li. Currently I'm a senior student majoring in Computer Science at University of Michigan, Ann Arbor. My research interest lies in Computer Network, Machine Learning and Human Computer Interaction. At University of Michigan, I'm fortunate to work as a research assistant in RobustNet Lab led by Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/) and SODA Lab led by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/). I'm also pursuing a dual degree of Electronic and Computer Engineering at Shanghai Jiao Tong University, where I worked closely with Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in the [Center for Entrepreneurship](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/about.html).
+Hi! I'm Zheng Li. Currently I'm a senior student majoring in Computer Science at University of Michigan, Ann Arbor. My research interest lies in Computer Network, Machine Learning and Human Computer Interaction. At University of Michigan, I'm fortunate to work as a research assistant in RobustNet Lab led by Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/) and SODA Lab led by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/). I'm also pursuing a dual degree of Electrical and Computer Engineering at Shanghai Jiao Tong University, where I worked closely with Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in the [Center for Entrepreneurship](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/about.html).
 
 # Publication
 
 Li, Zheng, Caiwei Chen, and Pradeep Kumar Ray. “[Robotics for Autism- Robotic Technologies for ASD Treatment.](https://www.asianhhm.com/information-technology/robotics-for-autism)” Asian Hospital & Healthcare Management.
 
 # Education
+
+**University of Michigan, Ann Arbor**<p align="right">Expected 2024</p>
+B.S.E. Computer Science (Dual Degree)
+**Shanghai Jiao Tong University**<p align="right">Expected 2024</p>
+B.S.E. Electrical and Computer Engineering (Dual Degree)
+
+# Selected Project
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
