@@ -16,11 +16,11 @@ Li, Zheng, Caiwei Chen, and Pradeep Kumar Ray. “[Robotics for Autism- Robotic 
 
 # Education
 
-**University of Michigan, Ann Arbor**<p align="right" >Expected 2024</p>
+**University of Michigan, Ann Arbor**(Expected 2024)
 
 B.S.E. Computer Science (Dual Degree)
 
-**Shanghai Jiao Tong University**| |(Expected 2024)
+**Shanghai Jiao Tong University**(Expected 2024)
 
 B.S.E. Electrical and Computer Engineering (Dual Degree)
 
@@ -33,6 +33,12 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-## Site-wide configuration
+# Fun
 
-The main configuration file for the site is in the base directory in [\_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [\_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+Some of my other interests (outside of research!):
+
+Beetle: I've been breeding beetles for more than 10 years and I also have the experience of breeding reptiles.
+
+Running: I'm a runner and I've won severl medals in Man's 1500m and 800m back in high school days.
+
+My hometown is Wenzhou, a city located at east of China. It is known as the cradle of mathematicians.
