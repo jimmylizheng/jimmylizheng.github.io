@@ -54,13 +54,13 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
 # Selected Project
 
-1. Emotion Classifier for Reddit Post
+1. **Emotion Classifier for Reddit Post**
 
    Trained machine learning model to classify the emotions in Reddit posts.
 
    Did feature engineering and used several different machine learning classifiers including LinearSVM, QuadraticSVM etc. to improve classification correctness. Finally improved the accuracy by 10% compared with the original basic LinearSVM model.
 
-1. MiProxy
+1. **MiProxy**
 
    Built a Proxy that can handle video streaming requirements between multiple clients and servers.
 
@@ -68,19 +68,19 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
    Realized distance based server selection using Dijkstra algorithm.
 
-1. SillyQL: A Simplified Query Language
+1. **SillyQL: A Simplified Query Language**
 
    Implemented a program that support basic SQL commands including insert, select, join, where etc.
 
    Used hash map and binary searching tree to accelerate some commands' execution.
 
-1. Insta485: A Simulation Program for Instagram
+1. **Insta485: A Simulation Program for Instagram**
 
    Implemented a static site generator that can automatically produce HTML templates for static web pages.
 
    Implemented an Instagram clone that has basic Instagram functions with server-side and client-side dynamic pages.
 
-1. Map - Reduce Searching Engin
+1. **Map - Reduce Searching Engin**
 
    Created a segmented inverted index of web pages using a pipeline of MapReduce programs.
 
