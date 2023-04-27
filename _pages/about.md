@@ -12,7 +12,7 @@ Hi! I'm Zheng Li. Currently I'm a senior student majoring in [Computer Science](
 
 # News
 
-I was awarded with Wang Chu Chien-Wen Research Award recently. I will join SODA Lab advised by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) from May 1st and the research scholarship will be used to support my project about Macheine Learning in
+I was awarded with [Wang Chu Chien-Wen Research Award](https://scholarships.engin.umich.edu/featured/tonywang/) recently. I will join SODA Lab advised by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) from May 1st and the research scholarship will be used to support my project about Macheine Learning in
 
 # Publication
 
