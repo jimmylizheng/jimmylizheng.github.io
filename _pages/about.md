@@ -32,15 +32,15 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
 1. **Starlink Project** @ RobustNet Lab
 
-Supervisor: Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)
+   Supervisor: Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)
 
-Reviewed current literatures about network system design of Low Earth Orbit satellites (LEO) and their advantages/disadvantages.
+   Reviewed current literatures about network system design of Low Earth Orbit satellites (LEO) and their advantages/disadvantages.
 
-Developed a customized network performance measurement system for Starlink.
+   Developed a customized network performance measurement system for Starlink.
 
-Implemented handover recognition algorithms for LEO handover problems based on round trip time and throughput measurements.
+   Implemented handover recognition algorithms for LEO handover problems based on round trip time and throughput measurements.
 
-Implemented Satellite trajectory prediction using Kalman filter.
+   Implemented Satellite trajectory prediction using Kalman filter.
 
 <!-- 2. Efficient Text-to-3D Generation @ SODA Lab
 
@@ -48,11 +48,11 @@ Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
 
 2. **Robotics for Autism** @ JI Centre for Entrepreneurship
 
-Supervisor: Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html)
+   Supervisor: Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html)
 
-Constructed a low-cost autism diagnosis system using eye-tracking technologies based on computer vision.
+   Constructed a low-cost autism diagnosis system using eye-tracking technologies based on computer vision.
 
-Reviewed current robotic technologies used in Autism diagnosis and treatment and published a [paper](https://www.asianhhm.com/information-technology/robotics-for-autism) on AHHM based on the review.
+   Reviewed current robotic technologies used in Autism diagnosis and treatment and published a [paper](https://www.asianhhm.com/information-technology/robotics-for-autism) on AHHM based on the review.
 
 # Selected Project
 
@@ -73,7 +73,7 @@ Wrote testing programs for the laser routing programs.
 
 Did research relates to RS-code, quantum encryption technology and light storage chips.
 
-2. **Teaching Assistant of Honor Physics (VP160)**, May 2022 - August 2022
+1. **Teaching Assistant of Honor Physics (VP160)**, May 2022 - August 2022
 
 Shanghai Jiao Tong University, Shanghai, China
 
@@ -83,7 +83,7 @@ Hosted weekly recitation classes, office hours and graded weekly assignments.
 
 Designed problems for midterm and final exams.
 
-3. **Writing Consultant of JI Writing Center**, September 2021 - Present
+1. **Writing Consultant of JI Writing Center**, September 2021 - Present
 
 Shanghai Jiao Tong University, Shanghai, China
 
