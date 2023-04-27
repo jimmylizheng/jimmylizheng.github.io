@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Zheng Li. Currently I'm a senior student majoring in Computer Science at University of Michigan, Ann Arbor. My research interest lies in Computer Network, Machine Learning and Human Computer Interaction. At University of Michigan, I'm fortunate to work as a research assistant in RobustNet Lab led by Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/) and SODA Lab led by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/). I'm also pursuing a dual degree of Electrical and Computer Engineering at Shanghai Jiao Tong University, where I worked closely with Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in the [Center for Entrepreneurship](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/about.html).
+Hi! I'm Zheng Li. Currently I'm a senior student majoring in [Computer Science](https://eecs.engin.umich.edu/) at [University of Michigan, Ann Arbor](https://umich.edu/). My research interest lies in Computer Network, Machine Learning and Human Computer Interaction. At University of Michigan, I'm fortunate to work as a research assistant in RobustNet Lab led by Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/) and SODA Lab led by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/). I'm also pursuing a [dual degree](https://www.ji.sjtu.edu.cn/academics/ipo/study-abroad/degree-programs/) of [Electrical and Computer Engineering](https://www.ji.sjtu.edu.cn/academics/undergraduate-program/degrees-programs/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I worked closely with Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in the [Center for Entrepreneurship](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/about.html). Click here to view my [CV](https://jimmylizheng.github.io/files/CV_Zheng_Li.pdf).
 
 # News
 
@@ -30,29 +30,29 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
 # Research
 
-1. **Starlink Project** @ RobustNet Lab
+- **Starlink Project** @ RobustNet Lab
 
-   Supervisor: Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)
+  Supervisor: Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)
 
-   Reviewed current literatures about network system design of Low Earth Orbit satellites (LEO) and their advantages/disadvantages.
+  Reviewed current literatures about network system design of Low Earth Orbit satellites (LEO) and their advantages/disadvantages.
 
-   Developed a customized network performance measurement system for Starlink.
+  Developed a customized network performance measurement system for Starlink.
 
-   Implemented handover recognition algorithms for LEO handover problems based on round trip time and throughput measurements.
+  Implemented handover recognition algorithms for LEO handover problems based on round trip time and throughput measurements.
 
-   Implemented Satellite trajectory prediction using Kalman filter.
+  Implemented Satellite trajectory prediction using Kalman filter.
 
 <!-- 2. Efficient Text-to-3D Generation @ SODA Lab
 
 Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
 
-2. **Robotics for Autism** @ JI Centre for Entrepreneurship
+- **Robotics for Autism** @ JI Centre for Entrepreneurship
 
-   Supervisor: Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html)
+  Supervisor: Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html)
 
-   Constructed a low-cost autism diagnosis system using eye-tracking technologies based on computer vision.
+  Constructed a low-cost autism diagnosis system using eye-tracking technologies based on computer vision.
 
-   Reviewed current robotic technologies used in Autism diagnosis and treatment and published a [paper](https://www.asianhhm.com/information-technology/robotics-for-autism) on AHHM based on the review.
+  Reviewed current robotic technologies used in Autism diagnosis and treatment and published a [paper](https://www.asianhhm.com/information-technology/robotics-for-autism) on AHHM based on the review.
 
 # Selected Project
 
@@ -67,43 +67,43 @@ Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
 
 1. **Software Engineer Intern**, December 2021 - March 2022
 
-[TURINGO](https://www.turingq.com/index-en.html), Shanghai, China
+   [TURINGO](https://www.turingq.com/index-en.html), Shanghai, China
 
-Wrote testing programs for the laser routing programs.
+   Wrote testing programs for the laser routing programs.
 
-Did research relates to RS-code, quantum encryption technology and light storage chips.
+   Did research relates to RS-code, quantum encryption technology and light storage chips.
 
 1. **Teaching Assistant of Honor Physics (VP160)**, May 2022 - August 2022
 
-Shanghai Jiao Tong University, Shanghai, China
+   Shanghai Jiao Tong University, Shanghai, China
 
-Supervisor: Dr. Mateusz Krzyzosiak
+   Supervisor: Dr. Mateusz Krzyzosiak
 
-Hosted weekly recitation classes, office hours and graded weekly assignments.
+   Hosted weekly recitation classes, office hours and graded weekly assignments.
 
-Designed problems for midterm and final exams.
+   Designed problems for midterm and final exams.
 
 1. **Writing Consultant of JI Writing Center**, September 2021 - Present
 
-Shanghai Jiao Tong University, Shanghai, China
+   Shanghai Jiao Tong University, Shanghai, China
 
-Supervisor: Dr. Amalia Jiva
+   Supervisor: Dr. Amalia Jiva
 
-Held consulting sessions to guide the students in JI to improve their essays and writing skills.
+   Held consulting sessions to guide the students in JI to improve their essays and writing skills.
 
-Led a group of writing consultants to provide embedded consulting services for the course VY200 (Academic Writing II).
+   Led a group of writing consultants to provide embedded consulting services for the course VY200 (Academic Writing II).
 
 # Honor and Award
 
 University of Michigan College of Engineering Dean’s Honor List, January 2023
 
-SJTU Undergraduate Excellent Scholarship Class A(top 2 \%), November 2022
+SJTU Undergraduate Excellent Scholarship Class A(top 2%), November 2022
 
-The Jackson and Muriel Lum Scholarship(top 3 \%), August 2022
+The Jackson and Muriel Lum Scholarship(top 3%), August 2022
 
 The 2021 University Physics Competition Bronze Medal Winner, January 2022
 
-The John Wu \& Jane Sun Sunshine Scholarship, November 2021
+The John Wu and Jane Sun Sunshine Scholarship, November 2021
 
 UM-SJTU Joint Institute Student Development Scholarship, March 2021
 
