@@ -30,29 +30,29 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
 # Research
 
-- **Starlink Project** @ RobustNet Lab
+1. **Starlink Project** @ RobustNet Lab
 
-  Supervisor: Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)
+Supervisor: Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)
 
-  Reviewed current literatures about network system design of Low Earth Orbit satellites (LEO) and their advantages/disadvantages.
+Reviewed current literatures about network system design of Low Earth Orbit satellites (LEO) and their advantages/disadvantages.
 
-  Developed a customized network performance measurement system for Starlink.
+Developed a customized network performance measurement system for Starlink.
 
-  Implemented handover recognition algorithms for LEO handover problems based on round trip time and throughput measurements.
+Implemented handover recognition algorithms for LEO handover problems based on round trip time and throughput measurements.
 
-  Implemented Satellite trajectory prediction using Kalman filter.
+Implemented Satellite trajectory prediction using Kalman filter.
 
 <!-- 2. Efficient Text-to-3D Generation @ SODA Lab
 
 Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
 
-- **Robotics for Autism** @ JI Centre for Entrepreneurship
+1. **Robotics for Autism** @ JI Centre for Entrepreneurship
 
-  Supervisor: Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html)
+Supervisor: Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html)
 
-  Constructed a low-cost autism diagnosis system using eye-tracking technologies based on computer vision.
+Constructed a low-cost autism diagnosis system using eye-tracking technologies based on computer vision.
 
-  Reviewed current robotic technologies used in Autism diagnosis and treatment and published a [paper](https://www.asianhhm.com/information-technology/robotics-for-autism) on AHHM based on the review.
+Reviewed current robotic technologies used in Autism diagnosis and treatment and published a [paper](https://www.asianhhm.com/information-technology/robotics-for-autism) on AHHM based on the review.
 
 # Selected Project
 
@@ -95,17 +95,17 @@ Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
 
 # Honor and Award
 
-University of Michigan College of Engineering Dean’s Honor List, January 2023
+- University of Michigan College of Engineering Dean’s Honor List, January 2023
 
-SJTU Undergraduate Excellent Scholarship Class A(top 2%), November 2022
+- SJTU Undergraduate Excellent Scholarship Class A(top 2%), November 2022
 
-The Jackson and Muriel Lum Scholarship(top 3%), August 2022
+- The Jackson and Muriel Lum Scholarship(top 3%), August 2022
 
-The 2021 University Physics Competition Bronze Medal Winner, January 2022
+- The 2021 University Physics Competition Bronze Medal Winner, January 2022
 
-The John Wu and Jane Sun Sunshine Scholarship, November 2021
+- The John Wu and Jane Sun Sunshine Scholarship, November 2021
 
-UM-SJTU Joint Institute Student Development Scholarship, March 2021
+- UM-SJTU Joint Institute Student Development Scholarship, March 2021
 
 # Fun
 
