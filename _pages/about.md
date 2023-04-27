@@ -36,7 +36,7 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
    Reviewed current literatures about network system design of Low Earth Orbit satellites (LEO) and their advantages/disadvantages.
 
-   Developed a customized network performance measurement system for Starlink.
+   Developed a customized network performance measurement system that can measure basic network performance parameters including round trip time, throughput etc. for Starlink.
 
    Implemented handover recognition algorithms for LEO handover problems based on round trip time and throughput measurements.
 
@@ -56,12 +56,39 @@ Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
 
 # Selected Project
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Emotion Classifier for Reddit Post
+
+   Trained machine learning model to classify the emotions in Reddit posts.
+
+   Did feature engineering and used several different machine learning classifiers including LinearSVM, QuadraticSVM etc. to improve classification correctness. Finally improved the accuracy by 10% compared with the original basic LinearSVM model.
+
+1. MiProxy
+
+   Built a Proxy that can handle video streaming requirements between multiple clients and servers.
+
+   Implemented adaptive bitrate selections for video streaming to minimize annoying buffering and improve user experience.
+
+   Realized distance based server selection using Dijkstra algorithm.
+
+1. SillyQL: A Simplified Query Language
+
+   Implemented a program that support basic SQL commands including insert, select, join, where etc.
+
+   Used hash map and binary searching tree to accelerate some commands' execution.
+
+1. Insta485: A Simulation Program for Instagram
+
+   Implemented a static site generator that can automatically produce HTML templates for static web pages.
+
+   Implemented an Instagram clone that has basic Instagram functions with server-side and client-side dynamic pages.
+
+1. Map - Reduce Searching Engin
+
+   Created a segmented inverted index of web pages using a pipeline of MapReduce programs.
+
+   Built an Index server, a REST API app that returns search results in JSON format.
+
+   Built a scalable Search server with a user interface that returns search results like Google or Bing.
 
 # Professional Service
 
