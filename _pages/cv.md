@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-
-- B.S. in GitHub, GitHub University, 2012
-- M.S. in Jekyll, GitHub University, 2014
-- Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 # CV
 
-Click here to view my [CV]().
+Click here to view my [CV](https://jimmylizheng.github.io/files/CV_Zheng_Li.pdf).

@@ -42,10 +42,6 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
    Implemented Satellite trajectory prediction using Kalman filter.
 
-<!-- 2. Efficient Text-to-3D Generation @ SODA Lab
-
-Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
-
 1. **Robotics for Autism** @ JI Centre for Entrepreneurship, July 2021 - August 2022
 
    Supervisor: Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html)
@@ -53,6 +49,8 @@ Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
    Constructed a low-cost autism diagnosis system using eye-tracking technologies based on computer vision.
 
    Reviewed current robotic technologies used in Autism diagnosis and treatment and published a [paper](https://www.asianhhm.com/information-technology/robotics-for-autism) on AHHM based on the review.
+
+   <!-- 2. Efficient Text-to-3D Generation @ SODA Lab Supervisor: Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) -->
 
 # Selected Project
 
