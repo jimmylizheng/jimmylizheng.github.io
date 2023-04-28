@@ -154,8 +154,12 @@ Computer Network, Web System, Machine Learning, Computer Security, SQL and Datab
 
 Some of my other interests (outside of research!):
 
+Travelling: I love travelling to different places and meeting different people and culture. I've been to more than half of the provinces in China (about 20).
+
 Beetle: I've been breeding beetles for more than 10 years and I also have the experience of breeding reptiles.
 
 Running: I'm a runner and I've won severl medals in Man's 1500m and 800m back in high school days.
 
 My hometown is [Wenzhou](https://en.wikipedia.org/wiki/Wenzhou), a city located at east of China. It is known as the cradle of mathematicians.
+
+I did Physics and Mathematical Olympiad in high school.
