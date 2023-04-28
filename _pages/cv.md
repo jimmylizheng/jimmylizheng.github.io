@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# CV
-
 Click here to view my [CV](https://jimmylizheng.github.io/files/CV_Zheng_Li.pdf).

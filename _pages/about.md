@@ -12,7 +12,7 @@ Hi! I'm Zheng Li. Currently I'm a senior student majoring in [Computer Science](
 
 # News
 
-I was awarded with [Wang Chu Chien-Wen Research Award](https://scholarships.engin.umich.edu/featured/tonywang/) recently. I will join SODA Lab advised by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) from May 1st and the research scholarship will be used to support my project about Macheine Learning in
+I was awarded with [Wang Chu Chien-Wen Research Award](https://scholarships.engin.umich.edu/featured/tonywang/) recently. I will join SODA Lab advised by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/) from May 1st and the research scholarship will be used to support my project about Macheine Learning in summer.
 
 # Publication
 
@@ -60,6 +60,14 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
 
    Did feature engineering and used several different machine learning classifiers including LinearSVM, QuadraticSVM etc. to improve classification correctness. Finally improved the accuracy by 10% compared with the original basic LinearSVM model.
 
+1. **Dog Classifier**
+
+   Trained machine learning model to classify different dog breeds.
+
+   Used Gradient-weighted Class Activation Mapping to visualize features used by CNN.
+
+   Applied transfer learning and data augmentation to improve classification correctness. Finally improved the accuracy by 12% compared with the original CNN model.
+
 1. **MiProxy**
 
    Built a Proxy that can handle video streaming requirements between multiple clients and servers.
@@ -67,6 +75,12 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
    Implemented adaptive bitrate selections for video streaming to minimize annoying buffering and improve user experience.
 
    Realized distance based server selection using Dijkstra algorithm.
+
+1. **Static Router**
+
+   Implemented a static router with basic router function like packet forwarding.
+
+   Implemented layer 2 and layer 3 protocols including ARP, ICMP, Ethernet etc.
 
 1. **SillyQL: A Simplified Query Language**
 
@@ -117,6 +131,10 @@ B.S.E. Electrical and Computer Engineering (Dual Degree)
    Held consulting sessions to guide the students in JI to improve their essays and writing skills.
 
    Led a group of writing consultants to provide embedded consulting services for the course VY200 (Academic Writing II).
+
+# Selected Coursework
+
+Computer Network, Web System, Machine Learning, Computer Security, SQL and Databases, Data Structures and Algorithms, Intro to Computer Organization, Linear Algebra, Discrete Mathematics, Intro to Logic Design, Intro to Signals and Systems
 
 # Honor and Award
 
