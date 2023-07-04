@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "About"
+permalink: /me/
+author_profile: true
+---
+
+<!-- ---
 permalink: /
 title: "About"
 excerpt: "About me"
@@ -6,7 +13,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
----
+--- -->
 
 Hi! I'm Zheng Li. Currently I'm a senior student majoring in [Computer Science](https://eecs.engin.umich.edu/) at [University of Michigan, Ann Arbor](https://umich.edu/). My research interest lies in Computer Network, Machine Learning and Human Computer Interaction. At University of Michigan, I'm fortunate to work as a research assistant in RobustNet Lab led by Professor [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/) and SODA Lab led by Professor [Jiasi Chen](https://jiasi.engin.umich.edu/). I'm also pursuing a [dual degree](https://www.ji.sjtu.edu.cn/academics/ipo/study-abroad/degree-programs/) of [Electrical and Computer Engineering](https://www.ji.sjtu.edu.cn/academics/undergraduate-program/degrees-programs/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I worked closely with Professor [Pradeep Ray](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/pradeep_bio.html) in the [Center for Entrepreneurship](https://sites.ji.sjtu.edu.cn/entrepreneurship/views/about.html). Click here to view my [CV](https://jimmylizheng.github.io/files/CV_Zheng_Li.pdf).
 
