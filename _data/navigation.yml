@@ -21,8 +21,8 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Map"
-    url: /map/
+  # - title: "Map"
+  #   url: /map/
 
   - title: "Me"
     url: /me/
