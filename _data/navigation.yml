@@ -23,3 +23,6 @@ main:
 
   - title: "Map"
     url: /map/
+
+  - title: "Me"
+    url: /me/
