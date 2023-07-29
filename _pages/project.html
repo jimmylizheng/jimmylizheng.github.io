@@ -11,50 +11,40 @@ author_profile: true
     <h2>Selected Projects</h2>
     <ol>
         <li>
-            <strong>Emotion Classifier for Reddit Post</strong><br>
-            <ul>
-                <li>
-                    Trained machine learning model to classify the emotions in Reddit posts.<br>
-                </li>
-                <li>
-                    Did feature engineering and used several different machine learning classifiers including LinearSVM,
-                    QuadraticSVM
-                    etc. to improve classification correctness. Finally improved the accuracy by 10% compared with the original
-                    basic
-                    LinearSVM model.
-                </li>
-            </ul>
-        </li>
-        <li>
-            <strong>Dog Classifier</strong><br>
-            <ul>
-                <li>
-                    Trained machine learning model to classify different dog breeds.<br>
-                </li>
-                <li>Used Gradient-weighted Class Activation Mapping to visualize features used by CNN.<br></li>
-                <li>Applied transfer learning and data augmentation to improve classification correctness. Finally improved the
-                accuracy by 12% compared with the original CNN model.</li>
-            </ul>
-        </li>
-        <li>
             <strong>MiProxy</strong><br>
-            <ul>
-                <li>Built a Proxy that can handle video streaming requirements between multiple clients and servers.<br></li>
-                <li>Implemented adaptive bitrate selections for video streaming to minimize annoying buffering and improve user
+        <ul>
+            <li>Built a Proxy that can handle video streaming requirements between multiple clients and servers.<br></li>
+            <li>Implemented adaptive bitrate selections for video streaming to minimize annoying buffering and improve user
                 experience.<br></li>
-                <li>Realized distance-based server selection using Dijkstra algorithm.</li>
+            <li>Realized DNS load balancing through round-robin load balance and distance based server selection using Dijkstra
+                algorithm.</li>
+        </ul>
+        </li>
+        <li>
+            <strong>Distributed Searching Engine</strong><br>
+            <ul>
+                <li>Created a segmented inverted index of web pages using a pipeline of MapReduce programs.<br></li>
+                <li>Developed a distributed MapReduce framework with strong fault tolerance to process large-scale web data.
+                </li>
+                <li>Utilized Flask framework to implement the backend server in order to generate highly customized
+                    recommendations via
+                    PageRank Algorithm and query vector similarity comparison.</li>
+                <li>Built an Index server, a REST API app that returns search results in JSON format.<br></li>
+                <li>Built a scalable Search server with a user interface that returns search results like Google or Bing.</li>
             </ul>
         </li>
         <li>
             <strong>Static Router</strong><br>
-            <ul>
-                <li>
-                    Implemented a static router with basic router function like packet forwarding.<br>
-                </li>
-                <li>
-                    Implemented layer 2 and layer 3 protocols including ARP, ICMP, Ethernet etc.
-                </li>
-            </ul>
+        <ul>
+            <li>
+                Implemented a static router with basic router function like packet forwarding so that it will be able to route
+                real
+                packets to HTTP servers.<br>
+            </li>
+            <li>
+                Implemented layer 2 and layer 3 protocols including ARP, ICMP, Ethernet etc.
+            </li>
+        </ul>
         </li>
         <li>
             <strong>SillyQL: A Simplified Query Language</strong><br>
@@ -79,12 +69,38 @@ author_profile: true
                 </li>
             </ul>
         </li>
-        <li>
-            <strong>Map - Reduce Searching Engine</strong><br>
+        <!-- <li>
+            <strong>Distributed Searching Engine</strong><br>
             <ul>
                 <li>Created a segmented inverted index of web pages using a pipeline of MapReduce programs.<br></li>
                 <li>Built an Index server, a REST API app that returns search results in JSON format.<br></li>
                 <li>Built a scalable Search server with a user interface that returns search results like Google or Bing.</li>
+            </ul>
+        </li> -->
+        <li>
+            <strong>Emotion Classifier for Reddit Post</strong><br>
+            <ul>
+                <li>
+                    Trained machine learning model to classify the emotions in Reddit posts.<br>
+                </li>
+                <li>
+                    Did feature engineering and used several different machine learning classifiers including LinearSVM,
+                    QuadraticSVM
+                    etc. to improve classification correctness. Finally improved the accuracy by 10% compared with the original
+                    basic
+                    LinearSVM model.
+                </li>
+            </ul>
+        </li>
+        <li>
+            <strong>Dog Classifier</strong><br>
+            <ul>
+                <li>
+                    Trained machine learning model to classify different dog breeds.<br>
+                </li>
+                <li>Used Gradient-weighted Class Activation Mapping to visualize features used by CNN.<br></li>
+                <li>Applied transfer learning and data augmentation to improve classification correctness. Finally improved the
+                    accuracy by 12% compared with the original CNN model.</li>
             </ul>
         </li>
     </ol>
