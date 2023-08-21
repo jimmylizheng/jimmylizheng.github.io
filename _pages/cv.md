@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to view my [CV](https://jimmylizheng.github.io/files/CV_Zheng_Li.pdf) (Updated in March 2023).
+Click here to view my [CV](https://jimmylizheng.github.io/files/CV_Zheng_Li.pdf) (Updated in August 2023).
