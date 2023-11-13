@@ -103,18 +103,22 @@ author_profile: true
             Supervisor: <a href="https://jiasi.engin.umich.edu/">Jiasi Chen</a>， <a href="https://sota.engin.umich.edu/">Samet Oymak</a><br>
             <ul>
                 <li>
-                    Published a paper on ACM SIGCOMM Workshop on Emerging Multimedia Systems (EMS). Research work won Wang Chu Chien-Wen
-                    Research Award (2 recipients in 2023).
+                    Published a paper on ACM SIGCOMM Workshop on Emerging Multimedia Systems (EMS).
                 </li>
+                <li>Research work won one of the two Wang Chu Chien-Wen Research Award in 2023.</li>
                 <li>
                     Evaluated model performance (including latency, memory usage, Quality of Experience etc.) of different Text-to-3D
                     generative AIs on server GPUs and mobile GPUs.
                 </li>
-                <li>Designed system structure and pipeline for distributed Text-to-3D generation.</li>
+                <li>Designed system structure and pipelines for distributed Text-to-3D generation.</li>
                 <li>
-                    Analyzed the inefficiency of different 3D generative models and the corresponding optimization strategies.
+                    Analyzed the inefficiency of different 3D generative models and their corresponding optimization strategies in the
+                    context of mobile systems.
                 </li>
-                <li>Designed and optimized 3D video streaming pipelines based on 3D Gaussians.</li>
+                <li>Designed ranking algorithms for 3D gaussians to optimize 3D streaming efficiency.</li>
+                <li>Implemented viewport dependent 3D streaming based on 3D gaussian ranking algorithms.</li>
+                <li>Measured and compared 3D streaming visual quality of different 3D gaussian ranking algorithm designs using PSNR and
+                SSIM.</li>
             </ul>
         </li>
 
@@ -209,14 +213,17 @@ author_profile: true
         </ul>
     </li>
     <li>
-        <strong>Dog Classifier</strong><br>
+        <strong>Simplified Operating System Kernel</strong><br>
         <ul>
             <li>
-                Trained machine learning model to classify different dog breeds.<br>
+                Developed a thread library with a interface that supports threads, mutex, conditional variables etc.<br>
             </li>
-            <li>Used Gradient-weighted Class Activation Mapping to visualize features used by CNN.<br></li>
-            <li>Applied transfer learning and data augmentation to improve classification correctness. Finally improved the
-                accuracy by 12% compared with the original CNN model.</li>
+            <li>
+                Implemented time interrupts for the thread library to ensure resource fairness and prevent a thread from monopolizing a CPU.<br>
+            </li>
+            <li>Developed a pager as part of the operating system kernel that manages application processes' virtual address spaces.<br></li>
+            <li>Implemented both file-backed and swap-backed virtual pages.</li>
+            <li>Maximized physical memory efficiency using the clock algorithm for page eviction.</li>
         </ul>
     </li>
     </ol>
